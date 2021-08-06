@@ -2,4 +2,4 @@
 spreading positivism over illnesses 
 
 
-architecture.jpeg
+https://github.com/ChaitanyaMM/i_recover_backend/blob/main/architecture.jpeg
